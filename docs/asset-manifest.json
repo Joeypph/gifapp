@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Joeypph/gifapp/static/css/main.5321604f.css",
+    "main.js": "/Joeypph/gifapp/static/js/main.ee27cd62.js",
+    "index.html": "/Joeypph/gifapp/index.html",
+    "main.5321604f.css.map": "/Joeypph/gifapp/static/css/main.5321604f.css.map",
+    "main.ee27cd62.js.map": "/Joeypph/gifapp/static/js/main.ee27cd62.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5321604f.css",
+    "static/js/main.ee27cd62.js"
+  ]
+}
